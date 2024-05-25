@@ -1,1 +1,0 @@
-# Fitness-App with React-Native
