@@ -1,1 +1,0 @@
-# Movie-Ticket-Booking with React-Native
