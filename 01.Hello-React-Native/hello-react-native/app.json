@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello-react-native",
-    "slug": "hello-react-native",
+    "name": "pi_used",
+    "slug": "pi_used",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.helloreactnative"
+      "package": "com.anonymous.pi_used"
     },
     "web": {
       "favicon": "./assets/favicon.png"
