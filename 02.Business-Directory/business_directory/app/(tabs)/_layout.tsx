@@ -4,7 +4,7 @@ import {  Tabs } from 'expo-router'
 
 const _layout = () => {
   return (
-<Tabs>
+<Tabs screenOptions={{headerShown:false}}>
 <Tabs.Screen name='home' />
 <Tabs.Screen name='explore' />
 <Tabs.Screen name='profile' />
